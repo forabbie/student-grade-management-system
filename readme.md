@@ -51,4 +51,4 @@ Peer-graded Assignment: Project Submission
 
 **Flowchart**
 
-![Student-Management-Flowchart](image-1.png)
+<img src="image.png" alt="Student Management Flowchart" height="500">
