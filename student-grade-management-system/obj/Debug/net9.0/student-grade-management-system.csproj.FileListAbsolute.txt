@@ -1,0 +1,15 @@
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/bin/Debug/net9.0/student-grade-management-system
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/bin/Debug/net9.0/student-grade-management-system.deps.json
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/bin/Debug/net9.0/student-grade-management-system.runtimeconfig.json
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/bin/Debug/net9.0/student-grade-management-system.dll
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/bin/Debug/net9.0/student-grade-management-system.pdb
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/obj/Debug/net9.0/student-grade-management-system.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/obj/Debug/net9.0/student-grade-management-system.AssemblyInfoInputs.cache
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/obj/Debug/net9.0/student-grade-management-system.AssemblyInfo.cs
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/obj/Debug/net9.0/student-grade-management-system.csproj.CoreCompileInputs.cache
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/obj/Debug/net9.0/student-grade-management-system.sourcelink.json
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/obj/Debug/net9.0/student-grade-management-system.dll
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/obj/Debug/net9.0/refint/student-grade-management-system.dll
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/obj/Debug/net9.0/student-grade-management-system.pdb
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/obj/Debug/net9.0/student-grade-management-system.genruntimeconfig.cache
+/Users/Shared/global_projects/web_applications/wa_playground/play_c#/play/student-grade-management-system/student-grade-management-system/obj/Debug/net9.0/ref/student-grade-management-system.dll
