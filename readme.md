@@ -28,7 +28,7 @@ Peer-graded Assignment: Project Submission
 
 ## Design Outline
 
-Tasks Breakdown
+**Tasks Breakdown**
 
 1. Create a Student class
 
@@ -49,6 +49,6 @@ Tasks Breakdown
 
 - Use a loop to allow users to choose different operations (e.g., add student, enter grades, display records, exit).
 
-## Flowchart
+**Flowchart**
 
 ![Student-Management-Flowchart](image-1.png)
